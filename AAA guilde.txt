@@ -1,0 +1,4 @@
+for this to work you need to move all the sound file to the main pyhton folder . 
+
+
+D:\softwere\python 3
